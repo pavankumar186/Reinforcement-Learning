@@ -1,2 +1,2 @@
 # Reinforcement-Learning
-Some introductory programs for RL in oython
+Some introductory programs for RL in python
