@@ -11,7 +11,6 @@ print(env.observation_space.low)
 
 env.reset()
 for i in range(100):
-	# action=
 	new_state,reward,done,info=env.step(env.action_space.sample())
 	env.render()
 env.close()
